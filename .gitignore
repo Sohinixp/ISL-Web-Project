@@ -1,0 +1,11 @@
+# Ignore Python environments
+venv/
+__pycache__/
+
+# Ignore Large Datasets (SLR45, etc.)
+datasets/
+*.mp4
+*.glb
+
+# Ignore IDE settings
+.vscode/
